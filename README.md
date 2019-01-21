@@ -13,8 +13,8 @@ $ gem install lolcat
 
 $ apt install git
 
-$ git clone https://github.com/DarkNet-Hacker-Team/ToolsHacking
+$ git clone https://github.com/DarkNet-Hacker-Team/ToolsBlackHat
 
-$ cd ToolsHacking
+$ cd ToolsBlackHat
 
-$ sh AutoInstal.sh
+$ sh BlackHat.sh
